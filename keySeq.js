@@ -1,5 +1,5 @@
 let pressed = [];
-let secret = "vikas";
+let secret = "holla";
 
 window.addEventListener('keyup', (e) => {
 	keyPress = e.key;
